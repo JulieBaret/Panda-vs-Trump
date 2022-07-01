@@ -1,6 +1,6 @@
 **Jeu Pico-8**
 
-Projet réalisé en groupe de trois personnes.
+Projet de groupe
 
 Langage : Lua
 
