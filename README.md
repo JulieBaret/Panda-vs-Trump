@@ -2,7 +2,10 @@
 
 Projet réalisé en groupe de trois personnes.
 
-Langage Lua.
-Moteur Pico-8.
-Jeu de plateforme.
-Infographie 2D.
+Langage : Lua
+
+Moteur : Pico-8
+
+Type de jeu : Plateforme
+
+Infographie : 2D
