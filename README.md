@@ -1,3 +1,5 @@
+__Accessible ici : [Lien jouable](https://www.lexaloffle.com/bbs/?uid=70691)__
+
 # Jeu Pico-8 : "One Panda vs. Trump"
 
 ***
