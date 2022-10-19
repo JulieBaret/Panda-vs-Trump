@@ -23,4 +23,7 @@ Lua
 ### Technologie :
 Pico-8
 
+### Screenshots :
+![screenshot of the loading](/img/intro.png)
+![screenshot of the game](/img/game.png)
 
